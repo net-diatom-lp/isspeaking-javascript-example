@@ -1,11 +1,11 @@
 # conference-app-dolby-io-aichatforest JavaScript Example
 
-Sample implementation for JavaScript (Web) of the isSpeaking method to poll for active user and update UI accordiingly.
+Our dolby.io hackathon implementation for JavaScript (Web) of the isSpeaking method to poll for active users
 
 ## Getting Started
 
-Replace `CUSTOMER_KEY` and `CUSTOMER_SECRET` inside `client.js` with your own key and secret.
-To run the app locally, open `index.html` in your browser with a live server.
+We Replaced `CUSTOMER_KEY` and `CUSTOMER_SECRET` inside `client.js` with our own key and secret.
+To run the app please visit aichatforest.com
 
 ## What's Inside
 
